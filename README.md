@@ -31,7 +31,7 @@ Optimization was achieved through the following steps:
 Final result: from **58 mA baseline consumption** down to **0.01 mA**, enabling a system that would normally last **1 day** on battery to theoretically last **10–16 years**.
 
 ⚠️ **Note**  
-This project is based on experimental measurement and academic research during my studies. It showcases **low-power optimization techniques** for embedded systems.
+None.
 
 🔧 **Tech Stack**  
 Arduino Uno, **ATmega328P**, C/C++ (Arduino IDE), Low-Power Modes, Prescaler Configuration, Interrupts, Energy Measurement
