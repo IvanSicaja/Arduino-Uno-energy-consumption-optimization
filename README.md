@@ -1,5 +1,5 @@
-🧾 🎯 Project title: Arduino Uno energy consumption optimization  
-📅 Project Timeline: March 2020 – June 2020  
+**🧾 🎯 Project title: Arduino Uno energy consumption optimization  
+📅 Project Timeline:** March 2020 – June 2020  
 🎥 YouTube Demo: To be added  
 📦 GitHub Source Code: <https://github.com/IvanSicaja/Arduino-Uno-energy-consumption-optimization>
 
