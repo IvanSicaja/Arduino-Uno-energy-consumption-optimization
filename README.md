@@ -37,8 +37,6 @@ None.
 Arduino Uno, **ATmega328P**, C/C++ (Arduino IDE), Low-Power Modes, Prescaler Configuration, Interrupts, Energy Measurement
 ---
 
-### 📸 Project Snapshot
-
 ---
 
 ### 📸 Project Snapshot
@@ -66,15 +64,12 @@ Arduino Uno, **ATmega328P**, C/C++ (Arduino IDE), Low-Power Modes, Prescaler Con
 
 ---
 
-
----
-
 ### 🎥 Video Demonstration
 
 Not available.
 
-
 ---
+
 
 📣 **Hashtags Section**  
 # Arduino #EmbeddedSystems #EnergyOptimization #LowPower #Microcontrollers #ATmega328P #SleepModes #IoT #HardwareOptimization
