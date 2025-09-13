@@ -60,6 +60,13 @@ Arduino Uno, **ATmega328P**, C/C++ (Arduino IDE), Low-Power Modes, Prescaler Con
        height="360">
 </p>
 
+<p align="center">
+  <img src="https://github.com/IvanSicaja/2020.03.01_GitHub_Arduino-Uno-Energy-Consumption-Optimization/blob/main/0.1_GitHub/1.0_Description_4_media_key_messages_%26_captions/2.0_Thumbnail_4.png?raw=true" 
+       alt="Arduino Uno Energy Optimization Preview 3" 
+       width="640" 
+       height="1000">
+</p>
+
 ---
 
 ### 🎥 Video Demonstration
